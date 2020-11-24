@@ -1,2 +1,2 @@
-# case_1.1_student
+# case
 Case 1.1 - Program DS4A
